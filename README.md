@@ -97,3 +97,5 @@ Customer Retention: Understanding customer behavior patterns through the model c
 Conclusion 
 
 The comparison of logistic regression and neural network models for purchase prediction clearly shows that the neural network significantly outperforms logistic regression in terms of accuracy. This superior performance can help businesses better identify high-value customers, optimize marketing strategies, and make more informed strategic decisions. As a result, businesses can enhance their efficiency, increase sales, and achieve better overall performance. 
+![Conclusion-AI](https://github.com/saad719/AI-Project/assets/104675050/0a52ddc5-9f22-4a36-8362-7c8015e20e90)
+
